@@ -29,3 +29,19 @@ Actividad 2 variable, cadenas, if, while y for
 
 ![image](https://github.com/user-attachments/assets/e99424e9-7f12-4c31-b639-a6cd20444b1b)
 
+- While
+
+![image](https://github.com/user-attachments/assets/e931e650-80d6-4e27-b5f2-f22094778585)
+
+- Resultado
+
+![image](https://github.com/user-attachments/assets/a228699c-e839-4712-b917-ecdb20cc7d9d)
+
+-For
+
+![image](https://github.com/user-attachments/assets/075f8eaf-a24c-4cb8-9356-068e118fb3a4)
+
+-Resultado
+
+![image](https://github.com/user-attachments/assets/cc542acd-af11-4ca9-94ab-bb94647c17b0)
+
